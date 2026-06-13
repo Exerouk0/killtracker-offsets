@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": "2025.06.13",
-  "updated_at": "2025-06-13",
+  "version": "2026.06.13",
+  "updated_at": "2026-06-13",
   "globals": {
     "dwLocalPlayerPawn": 36968088,
     "dwLocalPlayerController": 36833056
