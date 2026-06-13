@@ -3,17 +3,17 @@
   "version": "2026.06.13",
   "updated_at": "2026-06-13",
   "globals": {
-    "dwLocalPlayerPawn": 36968088,
-    "dwLocalPlayerController": 36833056
+    "dwLocalPlayerPawn": 0x2341698,
+    "dwLocalPlayerController": 0x2320720
   },
   "fields": {
-    "m_pActionTrackingServices": 5256,
-    "m_perRoundStats": 64,
-    "m_matchStats": 168,
-    "prs_m_iKills": 48,
-    "prs_m_iHeadShotKills": 80,
-    "ms_m_iKills": 296,
-    "ms_m_iHeadShotKills": 300,
-    "m_lifeState": 852
+    "m_pActionTrackingServices": 0x1488,
+    "m_perRoundStats": 0x40,
+    "m_matchStats": 0xA8,
+    "prs_m_iKills": 0x30,
+    "prs_m_iHeadShotKills": 0x50,
+    "ms_m_iKills": 0x128,
+    "ms_m_iHeadShotKills": 0x12C,
+    "m_lifeState": 0x354
   }
 }
