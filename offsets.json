@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "cs2_build_timestamp": 1763020047,
+  "updated_at": "2025-06-13",
+  "globals": {
+    "dwLocalPlayerPawn": 37888152,
+    "dwLocalPlayerController": 36768544
+  },
+  "fields": {
+    "m_pActionTrackingServices": 2072,
+    "m_perRoundStats": 320,
+    "m_matchStats": 168,
+    "prs_m_iKills": 296,
+    "prs_m_iHeadShotKills": 300,
+    "ms_m_iKills": 296,
+    "ms_m_iHeadShotKills": 300,
+    "m_lifeState": 813
+  }
+}
