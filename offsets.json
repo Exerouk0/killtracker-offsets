@@ -2,17 +2,17 @@
   "schema_version": 1,
   "version": "2026-06-12",
   "globals": {
-    "dwLocalPlayerPawn": 0x2341698,
-    "dwLocalPlayerController": 0x2320720
+    "dwLocalPlayerPawn": "0x2341698",
+    "dwLocalPlayerController": "0x2320720"
   },
   "fields": {
-    "m_pActionTrackingServices": 0x1488,
-    "m_perRoundStats": 0x40,
-    "m_matchStats": 0xA8,
-    "prs_m_iKills": 0x30,
-    "prs_m_iHeadShotKills": 0x50,
-    "ms_m_iKills": 0x68,
-    "ms_m_iHeadShotKills": 0x6C,
-    "m_lifeState": 0x354
+    "m_pActionTrackingServices": "0x1488",
+    "m_perRoundStats": "0x40",
+    "m_matchStats": "0xA8",
+    "prs_m_iKills": "0x30",
+    "prs_m_iHeadShotKills": "0x50",
+    "ms_m_iKills": "0x68",
+    "ms_m_iHeadShotKills": "0x6C",
+    "m_lifeState": "0x354"
   }
 }
