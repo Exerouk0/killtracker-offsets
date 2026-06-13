@@ -3,8 +3,8 @@
   "version": "2025.06.13",
   "updated_at": "2025-06-13",
   "globals": {
-    "dwLocalPlayerPawn": 37888152,
-    "dwLocalPlayerController": 36768544
+    "dwLocalPlayerPawn": 0x2341698,
+    "dwLocalPlayerController": 0x2320720
   },
   "fields": {
     "m_pActionTrackingServices": 0x1488,
