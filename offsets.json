@@ -10,10 +10,10 @@
     "m_pActionTrackingServices": 0x1488,
     "m_perRoundStats": 0x40,
     "m_matchStats": 0xA8,
-    "prs_m_iKills": 0x30,
-    "prs_m_iHeadShotKills": 0x50,
-    "ms_m_iKills": 0x128,
-    "ms_m_iHeadShotKills": 0x12C,
+    "prs_m_iKills": 0x128,
+    "prs_m_iHeadShotKills": 0x12C,
+    "ms_m_iKills": 0x30,
+    "ms_m_iHeadShotKills": 0x50,
     "m_lifeState": 0x354
   }
 }
