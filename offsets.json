@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "cs2_build_timestamp": 1763020047,
-  "updated_at": "2025-06-13",
+  "version": "2026.06.13",
+  "updated_at": "2026-06-13",
   "globals": {
     "dwLocalPlayerPawn": 37888152,
     "dwLocalPlayerController": 36768544
