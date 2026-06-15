@@ -6,11 +6,13 @@
     "dwLocalPlayerController": "0x2320720"
   },
   "fields": {
-    "m_pActionTrackingServices": "0x1488",
+    "m_pActionTrackingServices": "0x818",
     "m_perRoundStats": "0x40",
     "m_matchStats": "0xA8",
     "prs_m_iKills": "0x30",
     "prs_m_iHeadShotKills": "0x50",
+    "m_iNumRoundKills": "0x128",
+    "m_iNumRoundKillsHeadshots": "0x12C"
     "m_lifeState": "0x354"
   }
 }
