@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "2026-06-14",
+  "version": "2026-06-15",
   "globals": {
     "dwLocalPlayerPawn": "0x2341698",
     "dwLocalPlayerController": "0x2320720"
